@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    background-color: rgb(49, 29, 114);
+}
+
+#bg-network {
+    position: absolute;
+}
